@@ -6,13 +6,7 @@ import router from './router'
 
 // Configurar Firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyBKqQXVynU51WxopSwRZGystak1h_9a9gw",
-    authDomain: "formvueprueba.firebaseapp.com",
-    projectId: "formvueprueba",
-    storageBucket: "formvueprueba.appspot.com",
-    messagingSenderId: "979083549246",
-    appId: "1:979083549246:web:0d9668283fafca36524f6f",
-    measurementId: "G-K55GSFYJRS"
+
 };
 
 // Inicializar Firebase
